@@ -9,7 +9,7 @@
 
 registration page url-https://awesomeqa.com/ui/index.php?route=account/register
 
-Test Plan - Template.docx -->it is the template for  Test plan
+Test Plan - Template.docx -->it is the template for  Test plan of Login page 
 
 Amazon Sales-> Test cases 
 
