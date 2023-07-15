@@ -13,7 +13,7 @@ Test Plan - Template.docx -->it is the template for  Test plan
 
 Amazon Sales-> Test cases 
 
-Price              Discount
+(Price)              Discount
 
 (<5000Rs)               0%
 
