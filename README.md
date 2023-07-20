@@ -21,3 +21,5 @@
 
 (>=10000Rs,<20000Rs)    20%
 
+
+*Templates->This folder contains all the templates related to manual testing projects
