@@ -23,3 +23,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________
 
 *TEMPLATES->This folder contains all the templates related to manual testing projects
+
+*Requirement documentation -this documenents all the user storied related to opencart registration page
+
+*vwo login test plan->Test Plan for https://app.vwo.com/#/login page 
