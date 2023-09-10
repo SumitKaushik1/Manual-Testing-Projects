@@ -20,6 +20,7 @@ ________________________________________________________________________________
 (>=5000Rs,<10000Rs)     15%
 
 (>=10000Rs,<20000Rs)    20%
+
 _____________________________________________________________________________________________________________________________________
 
 *TEMPLATES->This folder contains all the templates related to manual testing projects
@@ -27,3 +28,6 @@ ________________________________________________________________________________
 *00_Requirment Documentation _ SRS of opencart website.docx ->this document contain  all the user stories related to opencart registration page
 
 *vwo login test plan->Test Plan for https://app.vwo.com/#/login page 
+
+____________________________________________________________________________________________________________________________________
+Restful booker Api testing ->postman export file ,https://restful-booker.herokuapp.com/apidoc/index.html
