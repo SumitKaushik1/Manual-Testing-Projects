@@ -32,4 +32,9 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________
 Restful booker Api testing ->postman export file ,https://restful-booker.herokuapp.com/apidoc/index.html
 ___________________________________________________________________________________________________________________________________
+*Restful booker Api testing ->postman collections file of Rest-Full-Booker api
+
+*RestFul Booker api testing.xlsx-> test case report of ResfulBooker api 
+
+*RCA for resful booker.xlsx -> RCA template for Restfull booker api
 
