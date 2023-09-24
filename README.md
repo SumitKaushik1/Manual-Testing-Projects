@@ -38,3 +38,9 @@ ________________________________________________________________________________
 
 *RCA for resful booker.xlsx -> RCA template for Restfull booker api
 
+_____________________________________________________________________________
+ResfulbookerToken.postman_environment.json ->environment variables json file
+
+day26(Assignment1) Restful booker.postman_collection.json- json file for Restful booker api collection
+
+
