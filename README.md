@@ -10,6 +10,8 @@
 *registration page url-https://awesomeqa.com/ui/index.php?route=account/register
 
 *Test Plan - Template.docx-->it is the template for  Test plan of Login page 
+
+Login and dashboard page test cases.xlsx-->Test case Report for login and DashBoard page app.vwo.com
 ____________________________________________________________________________________________________________________________________
 *Amazon Sales-> Test cases 
 
