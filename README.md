@@ -11,7 +11,10 @@
 
 *Test Plan - Template.docx-->it is the template for  Test plan of Login page 
 
-Login and dashboard page test cases.xlsx-->Test case Report for login and DashBoard page app.vwo.com
+*Login and dashboard page test cases.xlsx-->Test case Report for login and DashBoard page app.vwo.com
+
+*Login page and registration page Test cases using testing technique.xlsx ->test case report using testing technique(equivalence partision,
+boundary value analysis,decision table,state transition,error guessing)
 ____________________________________________________________________________________________________________________________________
 *Amazon Sales-> Test cases 
 
