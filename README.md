@@ -30,17 +30,16 @@ ________________________________________________________________________________
 *vwo login test plan->Test Plan for https://app.vwo.com/#/login page 
 
 ____________________________________________________________________________________________________________________________________
-Restful booker Api testing ->postman export file ,https://restful-booker.herokuapp.com/apidoc/index.html
+documentation of ResfulBooker api ->https://restful-booker.herokuapp.com/apidoc/index.html
 ___________________________________________________________________________________________________________________________________
-*Restful booker Api testing ->postman collections file of Rest-Full-Booker api
 
 *RestFul Booker api testing.xlsx-> test case report of ResfulBooker api 
 
 *RCA for resful booker.xlsx -> RCA template for Restfull booker api
 
 _____________________________________________________________________________
-ResfulbookerToken.postman_environment.json ->environment variables json file
+*ResfulbookerToken.postman_environment.json ->environment variables json file
 
-day26(Assignment1)_Restful_booker.postman_collection.json- json file for Restful booker api collection
+*day26(Assignment1)_Restful_booker.postman_collection.json- json file for Restful booker api collection
 
 
