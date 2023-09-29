@@ -21,6 +21,8 @@ ________________________________________________________________________________
 
 (>=10000Rs,<20000Rs)    20%
 
+Amazon Sales .xlsx->test case report Amazon Sales
+
 _____________________________________________________________________________________________________________________________________
 
 *TEMPLATES->This folder contains all the templates related to manual testing projects
