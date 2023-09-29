@@ -14,7 +14,7 @@
 *Login and dashboard page test cases.xlsx-->Test case Report for login and DashBoard page app.vwo.com
 
 *Login page and registration page Test cases using testing technique.xlsx ->test case report using testing technique(equivalence partision,
-boundary value analysis,decision table,state transition,error guessing)
+boundary value analysis,decision table,state transition,error guessing) of app.vwo.com
 ____________________________________________________________________________________________________________________________________
 *Amazon Sales-> Test cases 
 
