@@ -44,6 +44,9 @@ ________________________________________________________________________________
 
 *RCA for resful booker.xlsx -> RCA template for Restfull booker api
 
+_____________________________________________________________________________________________________________________________________
+GitHub Repository Api documentation-> https://docs.github.com/en/free-pro-team@latest/rest/repos/repos?apiVersion=2022-11-28#delete-a-repository
+
 _____________________________________________________________________________
 *ResfulbookerToken.postman_environment.json ->environment variables json file
 
