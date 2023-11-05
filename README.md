@@ -57,4 +57,12 @@ ________________________________________________________________________________
 
 *GITHUB_ENV_VARIIABLE.postman_environment.json ->environment variables json file
 
+*allure-report-of-github-api--> allure reprt folder for github api
 
+commands->
+
+newman run J:\2.manual_testing\day27\Assignment_answers\day27(Assignment)_GItHub_API.postman_collection.json -e J:\2.manual_testing\day27\Assignment_answers\GITHUB_ENV_VARIIABLE.postman_environment.json -r allure
+
+allure serve allure-results  
+
+allure generate --clean 
