@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 
 _____________________________________________________________________________
-*ResfulbookerToken.postman_environment.json ->environment variables json file
+*GITHUB_ENV_VARIIABLE.postman_environment.json ->environment variables json file
 
 *day26(Assignment1)_Restful_booker.postman_collection.json- json file for Restful booker api collection
 _____________________________________________________________________________________________________________________________________
