@@ -1,0 +1,35 @@
+{
+  "uid" : "56777812a67eb0d1",
+  "name" : "3.3.List _of_all_repository_support_pagination_to_check_last_page",
+  "fullName" : "1.List_of_all_repository#3.3.List _of_all_repository_support_pagination_to_check_last_page",
+  "historyId" : "472b6e5e-5557-4799-801e-d9abbc7b4120",
+  "time" : {
+    "start" : 1699155398770,
+    "stop" : 1699155398842,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "1.List_of_all_repository"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56777812a67eb0d1.json",
+  "parameterValues" : [ ]
+}
