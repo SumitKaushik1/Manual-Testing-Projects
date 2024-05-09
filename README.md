@@ -8,6 +8,9 @@ A bug report template outlines key details such as issue description, priority, 
 RTM (Requirements Traceability Matrix) template tracks the relationship between requirements and project artifacts for thorough coverage and alignment in software development.
 
 ## Test Cases
+<h4>Test-Case-Template</h4>
+A test case template is a predefined format outlining the steps, inputs, expected outcomes, and other relevant details for a specific test scenario.
+
 <h4>Amazon-Sales-TestCases</h4>
 
 These test cases seem to be designed for a pricing system where different discounts are applied based on the price range of the item
