@@ -25,7 +25,7 @@
 
 
 <h4> ● Coffee-Machine-and-Whatsapp-TestCases</h4>
- &nbsp;&nbsp;&nbsp;The "Coffee-Machine-and-Whatsapp-TestCases" file comprises test cases intended to assess the functionality and behavior of both a coffee machine and the WhatsApp application.
+ <p>&nbsp;&nbsp;&nbsp;The "Coffee-Machine-and-Whatsapp-TestCases" file comprises test cases intended to assess the functionality and behavior of both a coffee machine and the WhatsApp application.</p>
 
 ### API-Testing-TestCases
  <h4>● RestFull-Booker-API-Testing-TestCases</h4>
