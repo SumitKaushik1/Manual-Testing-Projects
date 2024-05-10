@@ -9,14 +9,13 @@
 
 ## Requirement Traceability Matrix
 <h4>● RTM template</h4>
- &nbsp;&nbsp;&nbsp;RTM (Requirements Traceability Matrix) template tracks the relationship between 
-                     requirements  and project artifacts for thorough coverage and alignment in 
-                     software development.
+ &nbsp;&nbsp;&nbsp;RTM (Requirements Traceability Matrix) template tracks the relationship between requirements 
+                   and project artifacts for thorough coverage and alignment in software development.
 
 <h4>● Requirement Traceability Matrix(VWO&opencart)</h4>
  &nbsp;&nbsp;&nbsp;This document presents a comprehensive Requirement Traceability Matrix (RTM) 
                    outlining user needs for both the registration page of OpenCart and the login page of 
-                    VWO.com.
+                   VWO.com.
 
 ## Test Cases
 <h4>● Test-Case-Template</h4>
