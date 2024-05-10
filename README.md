@@ -1,16 +1,22 @@
 # Manual-Testing-Projects
 <h2> Bug Reports</h2>
  <h4>● Bug Report Template</h4>
-  &nbsp;&nbsp;&nbsp;A bug report template outlines key details such as issue description, priority, steps to reproduce, environment, and resolution status.
+  &nbsp;&nbsp;&nbsp;A bug report template outlines key details such as issue description, 
+                    priority, steps to reproduce, environment, and resolution status.
  <h4>● VWO-Login-opencart-registration-Bug-Report</h4>
-  &nbsp;&nbsp;&nbsp;This document presents the consolidated bug report encompassing issues identified in both VWO login and OpenCart registration processes.
+  &nbsp;&nbsp;&nbsp;This document presents the consolidated bug report encompassing issues identified in 
+                    both VWO login and OpenCart registration processes.
 
 ## Requirement Traceability Matrix
 <h4>● RTM template</h4>
- &nbsp;&nbsp;&nbsp;RTM (Requirements Traceability Matrix) template tracks the relationship between requirements and project artifacts for thorough coverage and alignment in software development.
+ &nbsp;&nbsp;&nbsp;RTM (Requirements Traceability Matrix) template tracks the relationship between 
+                     requirements  and project artifacts for thorough coverage and alignment in 
+                     software development.
 
 <h4>● Requirement Traceability Matrix(VWO&opencart)</h4>
- &nbsp;&nbsp;&nbsp;This document presents a comprehensive Requirement Traceability Matrix (RTM) outlining user needs for both the registration page of OpenCart and the login page of VWO.com.
+ &nbsp;&nbsp;&nbsp;This document presents a comprehensive Requirement Traceability Matrix (RTM) 
+                   outlining user needs for both the registration page of OpenCart and the login page of 
+                    VWO.com.
 
 ## Test Cases
 <h4>● Test-Case-Template</h4>
@@ -28,7 +34,8 @@
 
 
 <h4> ● Coffee-Machine-and-Whatsapp-TestCases</h4>
- <p>&nbsp;&nbsp;&nbsp;The "Coffee-Machine-and-Whatsapp-TestCases" file comprises test cases intended to assess the functionality and behavior of both a coffee machine and the WhatsApp application.</p>
+ <p>&nbsp;&nbsp;&nbsp;The "Coffee-Machine-and-Whatsapp-TestCases" file comprises test cases intended to assess the functionality and behavior of both a coffee machine and the WhatsApp 
+                      application.</p>
 
 <h4>● VWO-Login-TestCases</h4>
  &nbsp;&nbsp;&nbsp;This document contains the test cases specifically designed for evaluating the functionality of the login page on VWO.com.
