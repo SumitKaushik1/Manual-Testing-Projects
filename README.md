@@ -1,5 +1,6 @@
 # Manual-Testing-Projects
-<h2> Bug Reports</h2>
+## Bug Reports
+ 
  <h4>● Bug Report Template</h4>
  A bug report template outlines key details such as issue description, 
  priority, steps to reproduce, environment, and resolution status.
@@ -43,8 +44,10 @@ and project artifacts for thorough coverage and alignment in software developmen
  <h4>● opencart-registration-TestCases</h4>
  This document encompasses the test cases tailored to assess the functionality and performance of the registration page within the OpenCart platform.
 
-### API-Testing-TestCases
+<h3> API-Testing-TestCases</h3>
+ 
  *This folder comprises test cases specifically designed for API testing and evaluation.*
+
  <h4>● RestFull-Booker-API-Testing-TestCases</h4>
  This document provides  test cases for the Restful Booker API, covering functionality, reliability, and security aspects.
 
@@ -62,13 +65,17 @@ and project artifacts for thorough coverage and alignment in software developmen
   ``````
   
 ## Test Reports
+
 <h4>● VWO-Login-TestCase-Report</h4>
  This document provides a detailed report on the test cases executed for evaluating the login functionality on VWO.com
+
 <h4>● opencart-registration-Test-Report</h4>
  Cumulative report detailing the outcomes of OpenCart's registration tests is provided in this document
 
-### API-Testing-Reports
+ <h3> API-Testing-Reports</h3>
+
  *This folder comprises test reports specifically designed for API testing and evaluation.*
+
   <h4>● RestFull-Booker-API-Testing-Report</h4>
   This document contains the report detailing the testing of the Restful Booker API.
 
