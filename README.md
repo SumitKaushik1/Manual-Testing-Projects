@@ -87,6 +87,12 @@ and project artifacts for thorough coverage and alignment in software developmen
 <h4>● Zephyr Scale - Jira(Report)</h4>
  The "Zephyr Scale - Jira (Report)" file offers a detailed test report on the VWO login feature's testing outcomes within Jira, utilizing Zephyr Scale's capabilities, aiding 
  stakeholders in assessing readiness for deployment.
+ <br>
+  <br>
+  Jira is a versatile project management tool developed by Atlassian, widely used for issue tracking, agile project management, and customizable workflows.
+  <br>
+  <br>
+  Zephyr Scale is a test management solution integrated with Jira, facilitating efficient planning, execution, and tracking of testing activities within the development workflow.
 
  <h3> API-Testing-Reports</h3>
 
