@@ -1,5 +1,5 @@
 # Manual-Testing-Projects
-## Bug Reports
+# Bug Reports
  
  <h4>● Bug Report Template</h4>
  A bug report template outlines key details such as issue description, 
@@ -9,7 +9,7 @@
   This document presents the consolidated bug report encompassing issues identified in 
   both VWO login and OpenCart registration processes.
 
-## Requirement Traceability Matrix
+# Requirement Traceability Matrix
 <h4>● RTM template</h4>
 RTM (Requirements Traceability Matrix) template tracks the relationship between requirements 
 and project artifacts for thorough coverage and alignment in software development.
@@ -19,7 +19,7 @@ and project artifacts for thorough coverage and alignment in software developmen
  outlining user needs for both the registration page of OpenCart and the login page of 
  VWO.com.
 
-## Test Cases
+# Test Cases
 <h4>● Test-Case-Template</h4>
  A test case template is a predefined format outlining the steps, inputs, expected outcomes, and other relevant details for a specific test scenario.
 
@@ -51,7 +51,7 @@ and project artifacts for thorough coverage and alignment in software developmen
  <h4>● RestFull-Booker-API-Testing-TestCases</h4>
  This document provides  test cases for the Restful Booker API, covering functionality, reliability, and security aspects.
 
-## Test Plan
+# Test Plan
   <h4>● Test Plan - Template</h4>
    A test plan is a detailed document outlining the strategy, objectives, scope, and resources for testing software or a system.
   
@@ -64,7 +64,7 @@ and project artifacts for thorough coverage and alignment in software developmen
    https://app.vwo.com/#/login
   ``````
   
-## Test Reports
+# Test Reports
 
 <h4>● VWO-Login-TestCase-Report</h4>
  This document provides a detailed report on the test cases executed for evaluating the login functionality on VWO.com
