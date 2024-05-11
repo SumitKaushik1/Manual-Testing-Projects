@@ -8,6 +8,18 @@
  <h4>● VWO-Login-opencart-registration-Bug-Report</h4>
   This document presents the consolidated bug report encompassing issues identified in 
   both VWO login and OpenCart registration processes.
+  
+ <h4>● Zephyr Scale - Jira(Traceability)</h4>
+  The "traceability matrix" in the file "Zephyr Scale - Jira (Traceability)" provides a comprehensive overview of the relationship between various elements of the VWO (Visual Website 
+  Optimizer) login feature, facilitating thorough tracking and management of testing activities within the Jira environment using Zephyr Scale.
+  <br>
+  <br>
+  Jira is a versatile project management tool developed by Atlassian, widely used for issue tracking, agile project management, and customizable workflows.
+  <br>
+  <br>
+  Zephyr Scale is a test management solution integrated with Jira, facilitating efficient planning, execution, and tracking of testing activities within the development workflow.
+
+  
 
 # Requirement Traceability Matrix
 <h4>● RTM template</h4>
@@ -70,7 +82,11 @@ and project artifacts for thorough coverage and alignment in software developmen
  This document provides a detailed report on the test cases executed for evaluating the login functionality on VWO.com
 
 <h4>● opencart-registration-Test-Report</h4>
- Cumulative report detailing the outcomes of OpenCart's registration tests is provided in this document
+  A cumulative report detailing the outcomes of OpenCart's registration tests is provided in this document
+  
+<h4>● Zephyr Scale - Jira(Report)</h4>
+ The "Zephyr Scale - Jira (Report)" file offers a detailed test report on the VWO login feature's testing outcomes within Jira, utilizing Zephyr Scale's capabilities, aiding 
+ stakeholders in assessing readiness for deployment.
 
  <h3> API-Testing-Reports</h3>
 
@@ -78,6 +94,8 @@ and project artifacts for thorough coverage and alignment in software developmen
 
   <h4>● RestFull-Booker-API-Testing-Report</h4>
   This document contains the report detailing the testing of the Restful Booker API.
+
+  
 
  
    
