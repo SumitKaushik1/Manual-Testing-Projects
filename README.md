@@ -94,6 +94,10 @@ and project artifacts for thorough coverage and alignment in software developmen
   <br>
   Zephyr Scale is a test management solution integrated with Jira, facilitating efficient planning, execution, and tracking of testing activities within the development workflow.
 
+  <h4>● Test metrices(VWO-login-opencart-registration)</h4>
+  This document presents the test metrics for the VWO login page and the Opencart registration page.
+  
+
  <h3> API-Testing-Reports</h3>
 
  *This folder comprises test reports specifically designed for API testing and evaluation.*
@@ -101,7 +105,7 @@ and project artifacts for thorough coverage and alignment in software developmen
   <h4>● RestFull-Booker-API-Testing-Report</h4>
   This document contains the report detailing the testing of the Restful Booker API.
 
-  
+
 
  
    
