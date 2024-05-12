@@ -19,7 +19,9 @@
   <br>
   Zephyr Scale is a test management solution integrated with Jira, facilitating efficient planning, execution, and tracking of testing activities within the development workflow.
 
-  
+# Documentation
+<h4>● 00_Requirment Documentation _ SRS of opencart website</h4>
+This file contains the Software Requirements Specification (SRS) for the Opencart website application.
 
 # Requirement Traceability Matrix
 <h4>● RTM template</h4>
