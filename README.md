@@ -1,9 +1,10 @@
 # Manual-Testing-Projects
 # Bug Reports
  
- ### Bug Report Template
+ ###  <font color="red">Bug Report Template</font>
  A bug report template outlines key details such as issue description, 
  priority, steps to reproduce, environment, and resolution status.
+
  _____________________________________________________________________________________
  ### VWO-Login-opencart-registration-Bug-Report
   This document presents the consolidated bug report encompassing issues identified in 
