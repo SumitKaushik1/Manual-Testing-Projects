@@ -20,9 +20,12 @@
   <br>
   Zephyr Scale is a test management solution integrated with Jira, facilitating efficient planning, execution, and tracking of testing activities within the development workflow.
 
+_____________________________________________________________________________________
+
 # Documentation
 ### 00_Requirment Documentation _ SRS of opencart website
 This file contains the Software Requirements Specification (SRS) for the Opencart website application.
+_____________________________________________________________________________________
 
 # Requirement Traceability Matrix
 ### RTM template</h4>
@@ -33,6 +36,7 @@ and project artifacts for thorough coverage and alignment in software developmen
  This document presents a comprehensive Requirement Traceability Matrix (RTM) 
  outlining user needs for both the registration page of OpenCart and the login page of 
  VWO.com.
+ _____________________________________________________________________________________
 
 # Test Cases
 
@@ -64,6 +68,7 @@ and project artifacts for thorough coverage and alignment in software developmen
 
  ### opencart-registration-TestCases
  This document encompasses the test cases tailored to assess the functionality and performance of the registration page within the OpenCart platform.
+ _____________________________________________________________________________________
 
 ## API-Testing-TestCases
  
@@ -71,13 +76,21 @@ and project artifacts for thorough coverage and alignment in software developmen
 
  ### RestFull-Booker-API-Testing-TestCases
  This document provides  test cases for the Restful Booker API, covering functionality, reliability, and security aspects.
+ 
+_____________________________________________________________________________________
 
 # Test Plan
 
   ### Test Plan - Template
+  
    A test plan is a detailed document outlining the strategy, objectives, scope, and resources for testing software or a system.
 
-    ____________________________________________________________________________________
+
+   
+   ____________________________________________________________________________________
+
+    
+    
   ### VWO-Login-Test-Plan
   This document outlines the strategy, objectives, scope, and resources for testing a VWO login functionality.
       
@@ -86,16 +99,21 @@ and project artifacts for thorough coverage and alignment in software developmen
   ``````sh
    https://app.vwo.com/#/login
   ``````
+
+_____________________________________________________________________________________
   
 # Test Reports
 
 ### VWO-Login-TestCase-Report
  This document provides a detailed report on the test cases executed for evaluating the login functionality on VWO.com
+ 
   ____________________________________________________________________________________
 
 ### opencart-registration-Test-Report
   A cumulative report detailing the outcomes of OpenCart's registration tests is provided in this document
+  
   ____________________________________________________________________________________
+  
   
 ### Zephyr Scale - Jira(Report)
  The "Zephyr Scale - Jira (Report)" file offers a detailed test report on the VWO login feature's testing outcomes within Jira, utilizing Zephyr Scale's capabilities, aiding 
@@ -111,6 +129,8 @@ and project artifacts for thorough coverage and alignment in software developmen
   
   ### Test metrices(VWO-login-opencart-registration)
   This document presents the test metrics for the VWO login page and the Opencart registration page.
+
+  _____________________________________________________________________________________
   
 
 ## API-Testing-Reports
