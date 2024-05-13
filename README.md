@@ -1,6 +1,8 @@
 # Manual-UI-Testing-Projects
 
-VWO Login Browser Link: https://app.vwo.com/#/login
+- VWO Login Browser Link: https://app.vwo.com/#/login
+
+- Opencart Registration Browser Link: https://awesomeqa.com/ui/index.php?route=account/register
 
 # Bug Reports
  
