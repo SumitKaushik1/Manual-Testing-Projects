@@ -1,7 +1,7 @@
 # Manual-Testing-Projects
 # Bug Reports
  
- ###  <font color="red">Bug Report Template</font>
+ ### Bug Report Template
  A bug report template outlines key details such as issue description, 
  priority, steps to reproduce, environment, and resolution status.
 
