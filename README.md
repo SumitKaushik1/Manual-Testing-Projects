@@ -69,14 +69,7 @@ and project artifacts for thorough coverage and alignment in software developmen
 
  ### opencart-registration-TestCases
  This document encompasses the test cases tailored to assess the functionality and performance of the registration page within the OpenCart platform.
- _____________________________________________________________________________________
 
-## API-Testing-TestCases
- 
- *This folder comprises test cases specifically designed for API testing and evaluation.*
-
- ### RestFull-Booker-API-Testing-TestCases
- This document provides  test cases for the Restful Booker API, covering functionality, reliability, and security aspects.
  
 _____________________________________________________________________________________
 
@@ -131,15 +124,7 @@ ________________________________________________________________________________
   ### Test metrices(VWO-login-opencart-registration)
   This document presents the test metrics for the VWO login page and the Opencart registration page.
 
-  _____________________________________________________________________________________
-  
-
-## API-Testing-Reports
-
- *This folder comprises test reports specifically designed for API testing and evaluation.*
-
-  ### RestFull-Booker-API-Testing-Report
-  This document contains the report detailing the testing of the Restful Booker API.
+ 
 
 
 
