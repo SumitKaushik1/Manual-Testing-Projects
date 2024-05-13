@@ -1,0 +1,59 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Inward issue link (Blocks),Outward issue link (Blocks),Inward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Atlas project key),Custom field (Atlas project status),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Custom field (Request participants),Satisfaction rating,Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field (Work category),Custom field ([CHART] Date of First Response),Parent,Parent summary,Status Category
+no limit is  enforced by the login page   on the number of concurrent login sessions for single user account,VWO-19,10036,Bug,In Progress,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,29/Jul/23 4:37 PM,29/Jul/23 4:40 PM,29/Jul/23 5:01 PM,,,0,Login,"steps to reproduce-
+1. open chrome 
+2.navigate to app.vwo.com
+3.enter valid  username and valid password
+4.click on sign in 
+4.open firefox
+5.navigate to app.vwo.com 
+6. click on sign in 
+7. open microsoft edge
+8.enter valid username and password
+9. click on sign in ",,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,,VWO-3,,29/Jul/23 4:37 PM;712020:ce9fc287-d27e-4450-8f53-a98ff99c2364;Dashboard - 29 July 2023.mp4;https://awesomeqa1.atlassian.net/rest/api/3/attachment/content/10007,,,,,,,,,,,,,,,,,,,0|i0005z:,,,,VWO Sprint 1,,,2.0,,,,,,,,10018,vwo login,In Progress
+error message is not shown on the buffer flow attack ,VWO-18,10035,Bug,In Progress,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,29/Jul/23 3:36 PM,29/Jul/23 4:02 PM,29/Jul/23 4:02 PM,,,0,Login,"Steps to Reproduce-
+1.navigate to app.vwo.com 
+2. enter username and password 
+3. click on sign in button
+
+Expected Result -login page should display error to the overflow attack
+Actual Result -error is not displayed ",,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,VWO-2,,,29/Jul/23 3:36 PM;712020:ce9fc287-d27e-4450-8f53-a98ff99c2364;Screenshot (256503).png;https://awesomeqa1.atlassian.net/rest/api/3/attachment/content/10006,,,,,,,,,,,,,,,,,,,0|i0005r:,,,,VWO Sprint 1,,,2.0,,,,,,,,10018,vwo login,In Progress
+error message is not shown by login page for maximum character  limit in  username and password.,VWO-17,10034,Bug,In Progress,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,29/Jul/23 3:30 PM,29/Jul/23 4:03 PM,29/Jul/23 4:03 PM,,,0,Login,"steps to reproduce--
+1.navigate to app.vwo.com .
+2. enter username and password .
+3. click on sign in button.
+
+Expected Result-error message should be displayed on execeding maximum limit 
+Actual Result - maximum character limit  is not handled by  login page for username and password.
+
+url environment-https://app.vwo.com/#/login 
+",,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,VWO-2,,,29/Jul/23 3:30 PM;712020:ce9fc287-d27e-4450-8f53-a98ff99c2364;Screenshot (256502).png;https://awesomeqa1.atlassian.net/rest/api/3/attachment/content/10005,,,,,,,,,,,,,,,,,,,0|i0005j:,,,,VWO Sprint 1,,,2.0,,,,,,,,10018,vwo login,In Progress
+login page is opened in unsupported browsers like opera,VWO-16,10033,Bug,In Progress,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,27/Jul/23 12:08 PM,29/Jul/23 4:39 PM,29/Jul/23 4:39 PM,,,0,Login,"steps to reproduce 
+1.open google opera browser 2.navigate to app.vwo.com  
+3.open yandex browser 4.navigate to app.vwo.com 
+
+Expected Result-login page should not be opened on unsupported browsers.
+Actual Result-login page is   opened on unsupported browsers such as opera.
+
+url environment-https://app.vwo.com/#/login !Screenshot (253811).png|thumbnail!  !Screenshot (253812).png|thumbnail! 
+
+https://drive.google.com/file/d/1MUbPhsESkb5MgtG9B_MsFdFSiJEBvaMO/view?usp=sharing",,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,,,,27/Jul/23 12:07 PM;712020:ce9fc287-d27e-4450-8f53-a98ff99c2364;Screenshot (253811).png;https://awesomeqa1.atlassian.net/rest/api/3/attachment/content/10004,27/Jul/23 12:07 PM;712020:ce9fc287-d27e-4450-8f53-a98ff99c2364;Screenshot (253812).png;https://awesomeqa1.atlassian.net/rest/api/3/attachment/content/10003,,,,,,,,,,,,,,,,,,0|i0004p:,,,,VWO Sprint 1,,,2.0,,,,,,,,10018,vwo login,In Progress
+text written on image is not visible ,VWO-15,10032,Bug,In Progress,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,27/Jul/23 11:41 AM,29/Jul/23 4:03 PM,29/Jul/23 4:04 PM,,,0,Login,"Steps to reproduce-
+
+1.navigate to app.vwo.com
+
+expected Result -text written on image should be visible
+
+actual Result-text written on image is not visible
+
+
+
+URL Environment -[https://app.vwo.com/#/login|https://app.vwo.com/#/login|smart-link] 
+
+!Login - VWO - 27 July 2023.mp4|width=1280,height=682!",,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,VWO-4,,,27/Jul/23 12:01 PM;712020:ce9fc287-d27e-4450-8f53-a98ff99c2364;Login - VWO - 27 July 2023.mp4;https://awesomeqa1.atlassian.net/rest/api/3/attachment/content/10002,27/Jul/23 11:40 AM;712020:ce9fc287-d27e-4450-8f53-a98ff99c2364;Screenshot (253803).png;https://awesomeqa1.atlassian.net/rest/api/3/attachment/content/10001,,,,,,,,,,,,,,,,,,0|i0004r:,,,,VWO Sprint 1,,,2.0,,,,,,,,10018,vwo login,In Progress
+QA Task -- to test this ,VWO-14,10031,Subtask,Done,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,Done,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,27/Jul/23 10:00 AM,27/Jul/23 11:44 AM,27/Jul/23 11:44 AM,27/Jul/23 10:00 AM,,0,,,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0005b:,,,,VWO Sprint 1,,,2.0,,,,,,,,10020, navigate and state change of login page ,Done
+QA Task -Test this login functionality,VWO-13,10030,Subtask,Done,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,Done,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,26/Jul/23 6:14 AM,26/Jul/23 6:16 AM,27/Jul/23 9:47 AM,26/Jul/23 6:14 AM,,0,,,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00053:,,,,VWO Sprint 1,,,2.0,,,,,,,,10021,login ui elements ,Done
+QA Task->Test this functionality,VWO-10,10027,Subtask,Done,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,Done,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,25/Jul/23 9:06 AM,25/Jul/23 10:46 AM,25/Jul/23 10:44 AM,25/Jul/23 10:46 AM,,0,,,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0004v:,,,,VWO Sprint 1,,,2.0,,,,,,,,10019,login with credentials ,Done
+login ui elements ,VWO-4,10021,Story,Done,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,Done,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,22/Jul/23 10:56 AM,27/Jul/23 11:43 AM,27/Jul/23 11:42 AM,26/Jul/23 6:13 AM,,0,,,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,VWO-15,,,,,,,,,,,,,,,,,,,,,,,,0|i0004l:,,,,VWO Sprint 1,,,2.0,,,,,,,,10018,vwo login,Done
+ navigate and state change of login page ,VWO-3,10020,Story,Done,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,Done,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,22/Jul/23 10:55 AM,29/Jul/23 4:39 PM,27/Jul/23 11:44 AM,27/Jul/23 9:59 AM,,0,,,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,,,VWO-19,,,,,,,,,,,,,,,,,,,,0|i0004j:,,,,VWO Sprint 1,,,2.0,,,,,,,,10018,vwo login,Done
+login with credentials ,VWO-2,10019,Story,Done,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,Done,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,22/Jul/23 10:54 AM,29/Jul/23 3:36 PM,26/Jul/23 6:13 AM,25/Jul/23 10:41 AM,,0,,,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,VWO-17,VWO-18,,,,,,,,,,,,,,,,,,,,,,,0|i0004n:,,,,VWO Sprint 1,,,2.0,,,,,,,,10018,vwo login,Done
+vwo login,VWO-1,10018,Epic,In Progress,VWO,VWO,software,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,Medium,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,22/Jul/23 10:53 AM,25/Jul/23 8:37 AM,25/Jul/23 9:01 AM,,,0,,,,sumit kaushik,712020:ce9fc287-d27e-4450-8f53-a98ff99c2364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,purple,,,0|i0004f:,,,,,,,,,,,,,,,,,In Progress
