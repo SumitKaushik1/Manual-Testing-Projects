@@ -1,4 +1,7 @@
 # Manual-UI-Testing-Projects
+
+VWO Login Browser Link: https://app.vwo.com/#/login
+
 # Bug Reports
  
  ### Bug Report Template
