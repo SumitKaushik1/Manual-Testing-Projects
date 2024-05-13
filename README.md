@@ -13,6 +13,10 @@
 
 - Bug: An issue affecting software functionality.
 
+- Sprint: In Jira, a sprint is a fixed period, typically one to four weeks, where a team works on a defined set of tasks or user stories.
+  
+- Story Point: In Jira, a story point is a relative measure used by agile teams to estimate the effort required for completing user stories or tasks.
+  
 - In Jira's hierarchy:
 
     - Epic: Represents a large body of work that can be broken down into smaller tasks or user stories.
@@ -20,7 +24,8 @@
     - User Story: Describes a feature or functionality from an end-user perspective, typically nested within an Epic.
 
     - Subtask: Represents smaller units of work that contribute to the completion of a User Story or Epic, allowing for more detailed task management.
-
+    
+    
  __________________________________________________________________________________________________
   
  ### VWO-Login-opencart-registration-Bug-Report
