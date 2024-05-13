@@ -1,4 +1,4 @@
-# Manual-Testing-Projects
+# Manual-UI-Testing-Projects
 # Bug Reports
  
  ### Bug Report Template
@@ -6,6 +6,23 @@
  priority, steps to reproduce, environment, and resolution status.
 
  _____________________________________________________________________________________
+ 
+ ### Jira-Issue-Report
+  This document outlines the issues encountered during the testing of the VWO login functionality
+, recorded and tracked using Jira.
+
+- Bug: An issue affecting software functionality.
+
+- In Jira's hierarchy:
+
+    - Epic: Represents a large body of work that can be broken down into smaller tasks or user stories.
+
+    - User Story: Describes a feature or functionality from an end-user perspective, typically nested within an Epic.
+
+    - Subtask: Represents smaller units of work that contribute to the completion of a User Story or Epic, allowing for more detailed task management.
+
+ __________________________________________________________________________________________________
+  
  ### VWO-Login-opencart-registration-Bug-Report
   This document presents the consolidated bug report encompassing issues identified in 
   both VWO login and OpenCart registration processes.
