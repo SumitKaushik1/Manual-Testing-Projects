@@ -5,7 +5,10 @@
 [https://docs.google.com/spreadsheets/d/1grfYV5rOdHsifoKvbF1TtrD7DSbKY9XB/edit?usp=drive_link&ouid=106800653154918970030&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1grfYV5rOdHsifoKvbF1TtrD7DSbKY9XB/edit?usp=sharing&ouid=106800653154918970030&rtpof=true&sd=true)
 ## VWO-Login-TestCase-Report
 https://docs.google.com/spreadsheets/d/1eiy28xkhO8gYibjhilQdidr9NdUrtIp4/edit?usp=sharing&ouid=106800653154918970030&rtpof=true&sd=true
-
+##  Zephyr Scale - Jira(Report)
+https://drive.google.com/file/d/1KSlrJNgxH4qSvjbbQGqsEp-5pL2B03dY/view?usp=sharing
+## opencart-registration-Test-Report
+https://docs.google.com/spreadsheets/d/17CHkIr9bmYe6TkM3ZMFLuyULmqeaCcYU/edit?usp=sharing&ouid=106800653154918970030&rtpof=true&sd=true
 
 ____________________________________________________________________________________
 - VWO Login Browser Link: https://app.vwo.com/#/login
